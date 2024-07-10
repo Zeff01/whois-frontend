@@ -34,24 +34,3 @@ This is a React-based frontend application that interacts with the Whois API to 
    npm start
 
 2. **Open your browser and go to http://localhost:5000**
-
-## File Structure
-
-whois-frontend/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ ├── DomainInfoTable.js
-│ │ ├── ContactInfoTable.js
-│ │ ├── DomainLookupForm.js
-│ │ └── ...
-│ ├── utils/
-│ │ └── dateFormatter.js
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── .env
-├── package.json
-└── README.md
